@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EliteFilm]]></title>
+        <description><![CDATA[EliteFilm]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 16:47:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>EliteFilm is a diverse group of professionals with experience in film production and a diverse array of other industries ranging from fashion to software development who have gathered to produce projects that we feel passionate about.</p>]]></description>
+            <link>undefined7568762e-2af4-4643-b9fb-ec7c9717c5fd/index.html</link>
+            <guid isPermaLink="false">7568762e-2af4-4643-b9fb-ec7c9717c5fd</guid>
+            <pubDate>Sat, 26 Dec 2015 16:47:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
