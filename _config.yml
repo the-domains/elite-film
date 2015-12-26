@@ -2,6 +2,7 @@ name: Elite Film
 favicon: null
 layout_spectrum: 0.12920997431501746
 typography_spectrum: 0.05427137506194413
+title: EliteFilm
 cta:
   domain: null
   bucket: null
